@@ -1,1 +1,1 @@
-module.exports = require("C:\\Users\\byrko\\OUG\\src\\utils\\typography")
+module.exports = require("C:\\Users\\byrko\\OffroadUpgradeGarage\\src\\utils\\typography")

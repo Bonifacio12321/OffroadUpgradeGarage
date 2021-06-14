@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="155d3c90-a051-484d-b78d-7a312300cf28" name="Default Changelist" comment="" />
+    <list default="true" id="155d3c90-a051-484d-b78d-7a312300cf28" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +36,7 @@
       <option name="presentableId" value="Default" />
       <updated>1623679929523</updated>
       <workItem from="1623679937115" duration="1698000" />
+      <workItem from="1623683720405" duration="16000" />
     </task>
     <servers />
   </component>

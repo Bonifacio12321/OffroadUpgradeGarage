@@ -7,7 +7,7 @@ module.exports = {
       summary: `- reporter, writer and off-road enthusisast`,
     },
     description: `The main goal of our website to make your pickup truck upgrade easy and cheap`,
-    siteUrl: `https://offroadupgradegarage.hostman.site/`,
+    siteUrl: `https://offroadupgradegarage.glitch.me/`,
     social: {
       twitter: `EllieRose`,
     },

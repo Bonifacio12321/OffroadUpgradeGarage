@@ -1,23 +1,23 @@
 var plugins = [{
-      plugin: require('C:/Users/byrko/OUG/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
+      plugin: require('C:/Users/byrko/OffroadUpgradeGarage/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
       options: {"plugins":[],"trackingId":"UA-62251910-1","head":false,"anonymize":false,"respectDNT":false,"exclude":[],"pageTransitionDelay":0},
     },{
-      plugin: require('C:/Users/byrko/OUG/node_modules/gatsby-plugin-feed/gatsby-ssr'),
+      plugin: require('C:/Users/byrko/OffroadUpgradeGarage/node_modules/gatsby-plugin-feed/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('C:/Users/byrko/OUG/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      plugin: require('C:/Users/byrko/OffroadUpgradeGarage/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"name":"Ryz","short_name":"Ryz","start_url":"/","background_color":"#ffffff","theme_color":"#663399","display":"minimal-ui","icon":"content/assets/gatsby-icon.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"ee9add44867698b4b7b71aa318a2f310"},
     },{
-      plugin: require('C:/Users/byrko/OUG/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('C:/Users/byrko/OffroadUpgradeGarage/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('C:/Users/byrko/OUG/node_modules/gatsby-plugin-typography/gatsby-ssr'),
+      plugin: require('C:/Users/byrko/OffroadUpgradeGarage/node_modules/gatsby-plugin-typography/gatsby-ssr'),
       options: {"plugins":[],"pathToConfigModule":"src/utils/typography"},
     },{
-      plugin: require('C:/Users/byrko/OUG/node_modules/gatsby-plugin-offline/gatsby-ssr'),
+      plugin: require('C:/Users/byrko/OffroadUpgradeGarage/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('C:/Users/byrko/OUG/node_modules/gatsby-plugin-dark-mode/gatsby-ssr'),
+      plugin: require('C:/Users/byrko/OffroadUpgradeGarage/node_modules/gatsby-plugin-dark-mode/gatsby-ssr'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
